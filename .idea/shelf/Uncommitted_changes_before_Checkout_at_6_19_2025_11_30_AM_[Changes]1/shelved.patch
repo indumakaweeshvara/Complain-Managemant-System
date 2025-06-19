@@ -1,0 +1,11 @@
+Index: src/main/java/lk/ijse/complainmanagementsystem/DataSourceLicner.java
+===================================================================
+diff --git a/src/main/java/lk/ijse/complainmanagementsystem/DataSourceLicner.java b/src/main/java/lk/ijse/complainmanagementsystem/DataSourceLicner.java
+new file mode 100644
+--- /dev/null	(date 1750312748316)
++++ b/src/main/java/lk/ijse/complainmanagementsystem/DataSourceLicner.java	(date 1750312748316)
+@@ -0,0 +1,4 @@
++package lk.ijse.complainmanagementsystem;
++
++public class DataSourceLicner {
++}
